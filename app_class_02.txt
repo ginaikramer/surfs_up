@@ -1,0 +1,7 @@
+from flask import flask
+app = Flask(__name__)
+hello_list = ['Hello', 'World']
+hello_dict {'Hello', 'World'}
+
+@app.route('/')
+def home():
