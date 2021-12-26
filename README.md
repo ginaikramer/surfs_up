@@ -25,15 +25,17 @@ Three major points from these deliverables include:
     
 
 ## Summary
-Based on temperatures, Oahu is an ideal location to open a surf and ice-cream shop since the temperatures are warm enough year round based on temperatures in both June and December. 
+Based on air temperatures, Oahu seems like an ideal location to open a surf and ice-cream shop.
 
-However, it would be prudent to perform additional analysis to make sure there aren't other situations that could impact a business. Two additional queries that should also be run and analyzed include:
+However, it would be prudent to perform additional analysis to make sure there aren't other situations that could impact a business, such as precipitation. 
+
+Two additional queries that should also be run and analyzed include:
 1) Gathering precipitation statistics for the month of June
    - ![June Precipitation](/Resources/june_precip_query.png)
 2) Gathering precipitation statistics for the month of December
    - ![December Precipitation](/Resources/dec_precip_query.png)
 
-In addition to gathering air temperature, it would also be prudent to gather and analyze:
+In addition to gathering air temperature and precipitation, it would also be prudent to gather and analyze:
 - Average water temperature for the months of June and December
 - Ideal and/or popular water temperature for surfing
 - Ideal and/or popular air temperature for eating ice cream
