@@ -33,4 +33,4 @@ However, it would be prudent to perform additional analysis to make sure there a
 2) Gathering precipitation statistics for the month of December
    - ![December Precipitation](/Resources/dec_precip_query.png)
 
-In addition to gathering temperature, it would also be prudent to gather and analyze average water temperature.
+In addition to gathering air temperature, it would also be prudent to gather and analyze average water temperature.
