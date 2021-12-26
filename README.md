@@ -19,9 +19,9 @@ Three major points from these deliverables include:
 1) Only about 4 degrees separates June from December in terms of average temperature
    - This means that December is not that much colder on average than June.  
 2) Both June's and December's 50th percentile are above 70 degrees
-   - This means that both June and December averages 50% of their days above 70 degrees
+   - This means that both June and December averages 50% of their days above 70 degrees, which seems like a great temperature for both surfing and eating ice cream.
 3) December's 25th percentile is 69 degrees, meaning only 25% of December days are lower than 69%
-   - If you take the 25th percentile and December's minimum of 56 degrees, the implication is December provides good opportunity for active surfing
+   - If you take the 25th percentile and December's minimum of 56 degrees, the implication is December provides good opportunity for active surfing based on air temperature.
     
 
 ## Summary
@@ -33,4 +33,7 @@ However, it would be prudent to perform additional analysis to make sure there a
 2) Gathering precipitation statistics for the month of December
    - ![December Precipitation](/Resources/dec_precip_query.png)
 
-In addition to gathering air temperature, it would also be prudent to gather and analyze average water temperature.
+In addition to gathering air temperature, it would also be prudent to gather and analyze:
+- Average water temperature for the months of June and December
+- Ideal and/or popular water temperature for surfing
+- Ideal and/or popular air temperature for eating ice cream
